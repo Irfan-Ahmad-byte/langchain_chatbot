@@ -1,0 +1,8 @@
+# test files directory
+test_files/
+
+# .env file
+.env
+
+# outline file
+outline.txt
