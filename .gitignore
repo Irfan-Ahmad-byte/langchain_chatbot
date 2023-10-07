@@ -10,3 +10,8 @@ outline.txt
 
 #
 Bioinformatics\ -\ Wikipedia_files/
+
+
+.venv/
+
+db/
