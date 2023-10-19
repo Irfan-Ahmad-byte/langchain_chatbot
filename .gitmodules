@@ -1,0 +1,3 @@
+[submodule "knowledgebase_creator"]
+	path = knowledgebase_creator
+	url = ./knowledgebase_creator
